@@ -1,2 +1,2 @@
-# HELLOT THERE
-PEPE
+# HELLO THERE
+I'm just learning code
